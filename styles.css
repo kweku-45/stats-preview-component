@@ -21,7 +21,7 @@ body{
 
 .container{
     display: flex;
-    height: 100%;
+    height: 120%;
     width: 100%;
     background-color: var(--very-dark-blue);
     justify-content: center;
